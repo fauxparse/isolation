@@ -6,9 +6,9 @@ Goals today:
 - [x] Clean the bathroom sink
 - [ ] Clear the dining table
 - [ ] Cook a delicious chicken and mushroom pasta bake
-- [ ] Video calls
-    - [ ] Kyle & Jack
-    - [ ] Julie
+- [x] Video calls
+    - [x] Kyle & Jack
+    - [x] Julie
 
 Woke up about 6:30; flicked through Twitter and checked in on Pen Island. Animal Crossing is cute as hell but even by day 3 it's starting to feel a little hollow. Perhaps it's just meant to be meditative? Anyway, it's not quite hitting the spot after 150+ hours in Breath of the Wild. Maybe it's time for another Diablo playthrough (Demon Hunter?): something I don't have to think about too much and won't give me any stress, but with a little more pace.
 
