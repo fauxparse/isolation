@@ -36,8 +36,51 @@ I did everything I said I was gonna do today! I also:
 * 👩🏻 Tara's sage and well-informed advice. That woman is working her butt off to keep us all alive.
 * 💪 That actually goes for everyone working to keep NZ healthy, but Tara's my fav.
 
+# Day 2: Friday 27 March
+
+Goals today:
+
+- [ ] Fold all the washing
+- [ ] Clean the kitchen
+- [x] Start a "to-watch" list
+
+Up at 8 after a much deeper sleep. So many vivid social-distancing-themed dreams. Also I think there was some karaoke in there?
+
+Also I'm super hungry, which isn't great. Once I get done with this morning's meetings I'll get some breakfast inside my body. Fridays are so meeting-heavy in general, which is going to be interesting: I find meetings exhausting in person and even more so over a video link, so today when I have like five hours of meetings it's gonna feel like a (quick maths) 13-hour day.
+
+Looking forward to my first Bubble Visit later on. I'm pretty certain it's all above board, I'm just nervous things will tighten up in a few days and I'll be stuck by myself 😬
+
+Friday, lessgo.
+
 ## Remember to buy
 
 - [ ] ~~Eraser~~ I found one because **I tidied up**
 - [ ] Flea treatment for Trip
 - [ ] Beer (I know but honestly)
+
+## To watch 
+
+- [x] All the Bright Places
+- [ ] The Wire
+  - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
+  - [ ] S2 🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+- [ ] Kingdom
+  - [ ] S1 🔘⚪️⚪️⚪️⚪️⚪️
+  - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
+- [ ] Veronica Mars
+  - [ ] S1 🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] Movie
+  - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+- [ ] Lord of the Rings
+  - [ ] The Fellowship of the Ring
+  - [ ] The Two Towers
+  - [ ] The Return of the King
+- [ ] Parasite
+- [ ] Call Me By Your Name
+- [ ] Only God Forgives
+- [ ] Red Cliff
