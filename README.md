@@ -4,11 +4,12 @@ Goals today:
 
 - [x] Set up this repo
 - [x] Clean the bathroom sink
-- [ ] Clear the dining table
-- [ ] Cook a delicious chicken and mushroom pasta bake
+- [x] Clear the dining table
+- [x] Cook a delicious chicken and mushroom pasta bake
 - [x] Video calls
     - [x] Kyle & Jack
     - [x] Julie
+    - [x] Locomotive crew
 
 Woke up about 6:30; flicked through Twitter and checked in on Pen Island. Animal Crossing is cute as hell but even by day 3 it's starting to feel a little hollow. Perhaps it's just meant to be meditative? Anyway, it's not quite hitting the spot after 150+ hours in Breath of the Wild. Maybe it's time for another Diablo playthrough (Demon Hunter?): something I don't have to think about too much and won't give me any stress, but with a little more pace.
 
@@ -18,8 +19,25 @@ Kicking myself for forgetting to buy new guitar strings before it was too late. 
 
 Still looking for a really meaty side project. I do have a half-finished Sudoku solver that I could put more time into: the solvers for the harder techniques are really nice self-contained challenges and I could easily knock one of them off every couple of days.
 
+### Later
+
+I did everything I said I was gonna do today! I also:
+
+- [x] Downloaded a new workout app (thanks Julie)
+- [x] Went for a walk
+- [x] Started a jigsaw puzzle
+- [x] Watched a shit-ton of The Wire (finished S1 and a good chunk of S2)
+
+### Grateful for
+
+* 💻 Video chat man, oh my god. I cannot imagine what this would be like without it.
+* 🥚 The two perfectly-poached eggs I made for lunch.
+* 🍷 The unopened bottle of pinot gris I found in the fridge unexpectedly.
+* 👩🏻 Tara's sage and well-informed advice. That woman is working her butt off to keep us all alive.
+* 💪 That actually goes for everyone working to keep NZ healthy, but Tara's my fav.
+
 ## Remember to buy
 
-- [ ] Eraser
+- [ ] ~~Eraser~~ I found one because **I tidied up**
 - [ ] Flea treatment for Trip
 - [ ] Beer (I know but honestly)
