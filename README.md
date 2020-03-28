@@ -69,13 +69,25 @@ But it's the weekend. I don't have to have a plan, right? Right?
 
 I did none of these things! None of them! I didn't even do my workout! And I'm completely fine with that. It's Saturday baybee.
 
+# Day 4: Sunday 29 March
+
+Goals today:
+
+- [ ] Tidy up a bit
+- [ ] Relax
+
+Went to the supermarket this morning for the first time. So weird. Also, some people really don't know how far two metres is. Surprised myself by getting a bunch of stuff for meals I wouldn't normally cook and feeling positive, even excited, about the idea. I don't know how it'll turn out afterwards, but for now I'm trying to use the extra time and energy in a positive way. Slightly annoyed at myself that I forgot to ask Kate if she needed anything before I went, but also I forgot flour, so I might need to go back anyway.
+
+Not sure what I'll end up doing today. At the moment I'm watching TV with the subtitles on because the rain is too loud, which means I can't just have it on in the background while I do other things, but I'm kind of feeling like Doing A Project.
+
 ## Remember to buy
 
 - [ ] ~~Eraser~~ I found one because **I tidied up**
 - [ ] Flea treatment for Trip
-- [ ] Beer (I know but honestly)
-- [ ] Ice cream
-- [ ] Tea bags
+- [ ] Flour
+- [x] Beer (I know but honestly)
+- [x] Ice cream
+- [x] Tea bags
 
 ## To watch 
 
@@ -83,9 +95,11 @@ I did none of these things! None of them! I didn't even do my workout! And I'm c
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [x] S3 🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+- [ ] Drag Race
+  - [ ] S12 🔘🔘🔘🔘⚪️⚪️⚪️⚪️...?
 - [ ] Kingdom
   - [ ] S1 🔘🔘⚪️⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
