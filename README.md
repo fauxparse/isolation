@@ -41,7 +41,7 @@ I did everything I said I was gonna do today! I also:
 Goals today:
 
 - [ ] Fold all the washing
-- [ ] Clean the kitchen
+- [x] Clean the kitchen
 - [x] Start a "to-watch" list
 
 Up at 8 after a much deeper sleep. So many vivid social-distancing-themed dreams. Also I think there was some karaoke in there?
@@ -52,23 +52,38 @@ Looking forward to my first Bubble Visit later on. I'm pretty certain it's all a
 
 Friday, lessgo.
 
+# Day 3: Saturday 28 March
+
+Goals today:
+
+- [ ] Clean the bathroom
+- [ ] Finish my jigsaw
+
+Didn't really finish yesterday — forgot to do my gratitude stuff etc. So, I'm grateful for my lil bubble. Spent the evening on House Party and playing Trivial Pursuit, which was fun.
+
+The weather this morning is real crappy, which wouldn't ordinarily be a problem except my house is SO LOUD when it rains. So I made some brunch and now I'm curled up on the couch making plans for the day but it's already 1pm.
+
+But it's the weekend. I don't have to have a plan, right? Right?
+
 ## Remember to buy
 
 - [ ] ~~Eraser~~ I found one because **I tidied up**
 - [ ] Flea treatment for Trip
 - [ ] Beer (I know but honestly)
+- [ ] Ice cream
+- [ ] Tea bags
 
 ## To watch 
 
 - [x] All the Bright Places
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [ ] S2 🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S2 🔘🔘🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️
   - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Kingdom
-  - [ ] S1 🔘⚪️⚪️⚪️⚪️⚪️
+  - [ ] S1 🔘🔘⚪️⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Veronica Mars
   - [ ] S1 🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
@@ -84,3 +99,4 @@ Friday, lessgo.
 - [ ] Call Me By Your Name
 - [ ] Only God Forgives
 - [ ] Red Cliff
+- [ ] IT Chapter 2
