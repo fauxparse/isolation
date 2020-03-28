@@ -78,7 +78,7 @@ But it's the weekend. I don't have to have a plan, right? Right?
 - [x] All the Bright Places
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [ ] S2 🔘🔘🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️
+  - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
