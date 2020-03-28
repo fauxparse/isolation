@@ -75,6 +75,9 @@ Goals today:
 
 - [ ] Tidy up a bit
 - [ ] Relax
+- [ ] FaceTime with Rachelle in NYC
+- [ ] Movie date
+- [ ] Investigate Improfest Online
 
 Went to the supermarket this morning for the first time. So weird. Also, some people really don't know how far two metres is. Surprised myself by getting a bunch of stuff for meals I wouldn't normally cook and feeling positive, even excited, about the idea. I don't know how it'll turn out afterwards, but for now I'm trying to use the extra time and energy in a positive way. Slightly annoyed at myself that I forgot to ask Kate if she needed anything before I went, but also I forgot flour, so I might need to go back anyway.
 
@@ -116,5 +119,6 @@ Not sure what I'll end up doing today. At the moment I'm watching TV with the su
 - [ ] Parasite
 - [ ] Call Me By Your Name
 - [ ] Only God Forgives
-- [ ] Red Cliff
+- [ ] Red Cliff (5-hour version)
 - [ ] IT Chapter 2
+- [ ] Moonlight
