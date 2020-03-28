@@ -65,6 +65,10 @@ The weather this morning is real crappy, which wouldn't ordinarily be a problem 
 
 But it's the weekend. I don't have to have a plan, right? Right?
 
+### Update
+
+I did none of these things! None of them! I didn't even do my workout! And I'm completely fine with that. It's Saturday baybee.
+
 ## Remember to buy
 
 - [ ] ~~Eraser~~ I found one because **I tidied up**
