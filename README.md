@@ -74,14 +74,31 @@ I did none of these things! None of them! I didn't even do my workout! And I'm c
 Goals today:
 
 - [ ] Tidy up a bit
-- [ ] Relax
+- [x] Relax
 - [ ] FaceTime with Rachelle in NYC
-- [ ] Movie date
-- [ ] Investigate Improfest Online
+- [x] Movie date
+- [x] Investigate Improfest Online
 
-Went to the supermarket this morning for the first time. So weird. Also, some people really don't know how far two metres is. Surprised myself by getting a bunch of stuff for meals I wouldn't normally cook and feeling positive, even excited, about the idea. I don't know how it'll turn out afterwards, but for now I'm trying to use the extra time and energy in a positive way. Slightly annoyed at myself that I forgot to ask Kate if she needed anything before I went, but also I forgot flour, so I might need to go back anyway.
+Went to the supermarket this morning for the first time. So weird. Also, some people really don't know how far two metres is, or even how many people one person from your household is. Surprised myself by getting a bunch of stuff for meals I wouldn't normally cook and feeling positive, even excited, about the idea. I don't know how it'll turn out afterwards, but for now I'm trying to use the extra time and energy in a positive way. Slightly annoyed at myself that I forgot to ask Kate if she needed anything before I went, but also I forgot flour, so I might need to go back anyway.
 
 Not sure what I'll end up doing today. At the moment I'm watching TV with the subtitles on because the rain is too loud, which means I can't just have it on in the background while I do other things, but I'm kind of feeling like Doing A Project.
+
+### Later
+
+Spent a chunk of the afternoon reading Shakespeare's Comedy Of Errors (aggressively abridged) over a Zoom call for Lyndon's birthday, and it was very silly fun. Then I cooked my favourite pasta (pumpkin and caramelised onion ravioli — just from a packet, but delicious and relatively inexpensive), browned some butter to go with it (a first) and promptly burned my tongue (sadly not a first). So any ensuing anosmia is not (necessarily) a symptom.
+
+Apart from that, I've spent most of the day lying on the couch with Trip on my chest watching TV, including watching (and live-tweeting) most of The Fellowship Of The Ring. It's... very silly. Needs some drastic editing: it could make a very decent 110 or so minutes, but 3 hours? No thanks.
+
+"Back" "to" "work" tomorrow. Some stuff didn't get done this weekend, but also I haven't devolved into some kind of blanket-fort troglodyte quite yet, which is oddly surprising. I'm at peace with my decisions.
+
+- [x] Set up shared grocery list with Kate
+- [x] Did workout (ugh, cardio this time)
+- [x] Checked Animates order: not yet picked up by NZ Post
+- [ ] Still didn't finish the jigsaw. It taunts me.
+
+## To do sometime
+
+- [ ] Email counsellor about remote therapy sessions
 
 ## Remember to buy
 
@@ -98,7 +115,7 @@ Not sure what I'll end up doing today. At the moment I'm watching TV with the su
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [x] S3 🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [x] S3 🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Drag Race
@@ -116,6 +133,9 @@ Not sure what I'll end up doing today. At the moment I'm watching TV with the su
   - [ ] The Fellowship of the Ring
   - [ ] The Two Towers
   - [ ] The Return of the King
+- [ ] Twin Peaks
+- [ ] The West Wing
+- [ ] Rescue Me
 - [ ] Parasite
 - [ ] Call Me By Your Name
 - [ ] Only God Forgives
