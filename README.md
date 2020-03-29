@@ -96,6 +96,14 @@ Apart from that, I've spent most of the day lying on the couch with Trip on my c
 - [x] Checked Animates order: not yet picked up by NZ Post
 - [ ] Still didn't finish the jigsaw. It taunts me.
 
+### Grateful for
+
+- 🏪 Supermarket staff
+- 💻 Internet connectivity
+- 🍳 Easy recipes
+- 🐈 Cat snugs
+- 🥵 A workout that only lasts 8 minutes
+
 ## To do sometime
 
 - [ ] Email counsellor about remote therapy sessions
