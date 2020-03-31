@@ -59,7 +59,7 @@ Goals today:
 - [ ] Clean the bathroom
 - [ ] Finish my jigsaw
 
-Didn't really finish yesterday — forgot to do my gratitude stuff etc. So, I'm grateful for my lil bubble. Spent the evening on House Party and playing Trivial Pursuit, which was fun.
+Didn't really finish this yesterday — forgot to do my gratitude stuff etc. So, I'm grateful for my lil bubble. Spent the evening on House Party and playing Trivial Pursuit, which was fun.
 
 The weather this morning is real crappy, which wouldn't ordinarily be a problem except my house is SO LOUD when it rains. So I made some brunch and now I'm curled up on the couch making plans for the day but it's already 1pm.
 
@@ -104,9 +104,42 @@ Apart from that, I've spent most of the day lying on the couch with Trip on my c
 - 🐈 Cat snugs
 - 🥵 A workout that only lasts 8 minutes
 
+# Day 5: Monday 30 March
+
+I have a headache. **It is just a headache.**
+
+I totalled it up and I have 18 hours of video calls scheduled for work this week. This is clearly unsustainable. At least, I hope it is. EIGHTEEN HOURS.
+
+Apart from those two things, I'm good. Just had a whole-family video chat for Tim's birthday, and I'm very glad I got him an entirely digital present (even before all this happened). Ihaia and Tāwera sent me pictures to go in my picture frames, but I think I'm just gonna put them up on the wall in the study.
+
+I'm also extremely happy to report that before I started work this morning I put a bunch of pork and juices and spices into my slow cooker, so in a couple of hours I should be ready to take that out, break it up with forks, and crisp it in the oven for some delicious carnitas to put in tacos forever (1.2kg pork divided by just me equals a lot of porks per me).
+
+Also spent some time today helping Brendon out with Dungeons & Comedians, which was very fun. I need to finish making my character for Wednesday's D&D session (unrelated), or at least come up with a name.
+
+I'm feeling alright. I'm hearing a lot more people noise outside than I'd expect, though 🤔
+
+Retrospective goals for today:
+
+- [x] Cook some delicious pork
+- [x] Clean up after myself
+- [ ] Name my character
+- [x] Draw pictures for Ihaia and Tāwera
+- [ ] Finish FotR?
+- [x] Watch more Veronica Mars
+
+# Day 6: Tuesday 31 March
+
+A rough night, bad sleep, gross dreams. Got to work out how to do more of a reset when I wake up like this so it doesn't bleed into the rest of the day. 
+
+Still managed to get a reasonable amount of work done, followed by some Diablo (I was right, this rules) and dinner with Kate. Also managed to watch the Dungeons & Comedians live stream, which was lovely.
+
+Hopefully more energetic tomorrow because today I didn't even do any goals.
+
 ## To do sometime
 
 - [ ] Email counsellor about remote therapy sessions
+- [ ] Tidy up/organise pantry
+- [ ] Vacuum floor
 
 ## Remember to buy
 
@@ -123,16 +156,16 @@ Apart from that, I've spent most of the day lying on the couch with Trip on my c
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [x] S3 🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [x] S3 🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Drag Race
   - [ ] S12 🔘🔘🔘🔘⚪️⚪️⚪️⚪️...?
 - [ ] Kingdom
-  - [ ] S1 🔘🔘⚪️⚪️⚪️⚪️
+  - [ ] S1 🔘🔘🔘⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Veronica Mars
-  - [ ] S1 🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S1 🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] Movie
@@ -149,4 +182,5 @@ Apart from that, I've spent most of the day lying on the couch with Trip on my c
 - [ ] Only God Forgives
 - [ ] Red Cliff (5-hour version)
 - [ ] IT Chapter 2
-- [ ] Moonlight
+- [ ] Moonlight (with Kate)
+- [ ] Withnail & I
