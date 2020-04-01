@@ -135,6 +135,19 @@ Still managed to get a reasonable amount of work done, followed by some Diablo (
 
 Hopefully more energetic tomorrow because today I didn't even do any goals.
 
+# Day 7: Wednesday 1 April
+
+Goals for today:
+
+- [x] Component Library workshop
+- [ ] Clean kitchen
+- [x] Take out rubbish
+- [x] D&D with Jen and Flinn
+
+The workshop went really well! Glad I put so much time into prepping it. D&D was also super fun. It's nice to do silly things with pals.
+
+Feeling a little more relaxed today in general, which is nice. I should do a workout tomorrow, though, it's been a few days.
+
 ## To do sometime
 
 - [ ] Email counsellor about remote therapy sessions
