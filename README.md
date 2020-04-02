@@ -148,6 +148,10 @@ The workshop went really well! Glad I put so much time into prepping it. D&D was
 
 Feeling a little more relaxed today in general, which is nice. I should do a workout tomorrow, though, it's been a few days.
 
+# Day 8: Thursday 2 April
+
+I have been on video calls literally all day. It's 4:30pm and my butt hurts from sitting at my desk. I'm hungry, I'm tired, and I don't have the energy to exercise or prepare food. Now is the time I would normally order delivery and go for a walk once I've eaten, but obviously that's not an option. I'm just gonna collapse for a bit and see how I feel when my brain's stopped leaking out my ears.
+
 ## To do sometime
 
 - [ ] Email counsellor about remote therapy sessions
