@@ -152,9 +152,27 @@ Feeling a little more relaxed today in general, which is nice. I should do a wor
 
 I have been on video calls literally all day. It's 4:30pm and my butt hurts from sitting at my desk. I'm hungry, I'm tired, and I don't have the energy to exercise or prepare food. Now is the time I would normally order delivery and go for a walk once I've eaten, but obviously that's not an option. I'm just gonna collapse for a bit and see how I feel when my brain's stopped leaking out my ears.
 
+# Day 9: Friday 3 April
+
+Thursday broke me a little. Took the day pretty easy and talked to Julie about setting up "Zoom-free Wednesdays", where I'm still working but just not available on calls. That gives me one or two days' break after every two days with calls. Seems doable?
+
+Other than that, I played a bunch of Diablo and watched some more TV. Went to the supermarket in the evening and it's crazy to see the changes that have happened in a week. By the time I left, the queue stretched all the way through the trolley area, down the side of the building, and around three sides of the block. I know it's spaced out, and it was moving quite quickly, but still. Stocked up on some meals that require a little less preparation. Slow and steady.
+
+# Day 10: Saturday 4 April
+
+Had a good sleep-in this morning, then took groceries over to Kate and watched last week's Drag Race. A nice relaxing reset at the end of a tough week.
+
+Still haven't finished my jigsaw.
+
+Goals for today:
+
+- [x] clean kitchen
+- [x] soak laundry
+- [ ] make some pasta???
+
 ## To do sometime
 
-- [ ] Email counsellor about remote therapy sessions
+- [x] Email counsellor about remote therapy sessions
 - [ ] Tidy up/organise pantry
 - [ ] Vacuum floor
 
