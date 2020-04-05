@@ -168,34 +168,40 @@ Goals for today:
 
 - [x] clean kitchen
 - [x] soak laundry
-- [ ] make some pasta???
+- [x] make some pasta???
+
+# Day 11: Sunday 5 April
+
+Goals for today:
+
+- [x] clean kitchen (again)
+- [x] change sheets etc
+- [x] lots of room for ACTIVITIES
+
+I finished my jigsaw last night! Also the pasta was very good. Then I had a very solid sleep (daylight savings switch and all). Got up not too late, cleaned up from last night and threw some washing on, all before I even had a shower.
+
+AND THEN I spent most of the day away from screens, playing solo board games (Wingspan and Scythe). A very wholesome and relaxing day that has hopefully set me up well for a fresh start on work tomorrow.
+
+Also started planning a quiz night and a D&D game for next weekend. ACTIVITIEEEES.
 
 ## To do sometime
 
 - [x] Email counsellor about remote therapy sessions
 - [ ] Tidy up/organise pantry
 - [ ] Vacuum floor
-
-## Remember to buy
-
-- [ ] ~~Eraser~~ I found one because **I tidied up**
-- [ ] Flea treatment for Trip
-- [ ] Flour
-- [x] Beer (I know but honestly)
-- [x] Ice cream
-- [x] Tea bags
+- [ ] Plan quiz round
+- [ ] Plan D&D escapade
 
 ## To watch 
 
-- [x] All the Bright Places
 - [ ] The Wire
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [x] S3 🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
-  - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [x] S3 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
+  - [ ] S4 🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Drag Race
-  - [ ] S12 🔘🔘🔘🔘⚪️⚪️⚪️⚪️...?
+  - [ ] S12 🔘🔘🔘🔘🔘⚪️⚪️⚪️...?
 - [ ] Kingdom
   - [ ] S1 🔘🔘🔘⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
@@ -206,16 +212,17 @@ Goals for today:
   - [ ] Movie
   - [ ] S4 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Lord of the Rings
-  - [ ] The Fellowship of the Ring
+  - [x] The Fellowship of the Ring
   - [ ] The Two Towers
   - [ ] The Return of the King
 - [ ] Twin Peaks
 - [ ] The West Wing
 - [ ] Rescue Me
+- [x] All the Bright Places
+- [x] IT Chapter 2
 - [ ] Parasite
 - [ ] Call Me By Your Name
 - [ ] Only God Forgives
 - [ ] Red Cliff (5-hour version)
-- [ ] IT Chapter 2
 - [ ] Moonlight (with Kate)
 - [ ] Withnail & I
