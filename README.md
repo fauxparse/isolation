@@ -184,13 +184,29 @@ AND THEN I spent most of the day away from screens, playing solo board games (Wi
 
 Also started planning a quiz night and a D&D game for next weekend. ACTIVITIEEEES.
 
+# Day 17: Saturday 11 April
+
+It's been... some days. I kept meaning to come back and update this, but I'm getting back to feeling busy, like things are *happening*. Which I guess is good?
+
+Constantly behind on chores: there are always, always dishes to do, and the sofa is getting more and more cluttery. I should fix that.
+
+I've been doing some Projects! Last night was our Lads! Lads! Lads! video quiz, which was a pretty great success, even if I did come last (my fault for organising two rounds, I suppose). But a delightful time, and we all agreed we should do another one.
+
+Then today I ran a "D&D for beginners" session. This was an idea I started to formulate last weekend: there are lots of people home by themselves, and D&D is having one of its perennial popularity surges. So I wanted to see if I could create an environment that made D&D as friendly as possible to beginners over a remote connection. I started by sending out a survey about the type of character someone was interested in, and built characters from their answers (unsurprisingly, I got a LOT of orphans). Then I sent the characters back out as greatly simplified character sheets: no numbers at all except their own hit points and the amount of damage their weapons/spells caused (so they had a kind of rough idea of what big damage was when they were in combat). I also made a one-page guide to the kinds of things they could do. Then I spent a couple of days coming up with a short scenario for them to play through — my first time doing this EVER. It was a lot of work. But the results were extremely fun. I rolled all the dice for the players, trying as much as possible to explain what I was doing at every step. They loved it! I was really happy with their creative approach to solving the problems (including some out-and-out pacifism) and the monsters didn't kill them (although one character got down to 0HP).
+
+*THEN* I watched Hackers while in an IRC chat with pals and I cooked a frozen pizza because I couldn't order delivery and it was perfect. A Good Day.
+
+# Day 18: Sunday 12 April
+
+Lazy holiday Sunday. Finished The Wire S4, started another jigsaw (though my heart wasn't in it), gonna cook a nice meal.
+
 ## To do sometime
 
 - [x] Email counsellor about remote therapy sessions
+- [x] Plan quiz round
+- [x] Plan D&D escapade
 - [ ] Tidy up/organise pantry
 - [ ] Vacuum floor
-- [ ] Plan quiz round
-- [ ] Plan D&D escapade
 
 ## To watch 
 
@@ -198,15 +214,15 @@ Also started planning a quiz night and a D&D game for next weekend. ACTIVITIEEEE
   - [x] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S2 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [x] S3 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
-  - [ ] S4 🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [x] S4 🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘
   - [ ] S5 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Drag Race
-  - [ ] S12 🔘🔘🔘🔘🔘⚪️⚪️⚪️...?
+  - [ ] S12 🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️...?
 - [ ] Kingdom
   - [ ] S1 🔘🔘🔘⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️
 - [ ] Veronica Mars
-  - [ ] S1 🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+  - [ ] S1 🔘🔘🔘🔘🔘🔘🔘🔘🔘⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S2 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] S3 ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
   - [ ] Movie
